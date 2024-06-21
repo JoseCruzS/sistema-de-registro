@@ -10,3 +10,7 @@
 
 <h2>CARACTERÍSTICAS</h2>
 <h3>Texto de prueba</h3>
+
+Para ejecutar el sistema, debes poner:
+
+'''npm install react'''
