@@ -1,6 +1,6 @@
 <h1>SISTEMA DE REGISTRO</h1>
 
-:construction:![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-orange):construction:
+<h2>:construction:EN DESARROLLO:construction:</h2>
 
 <h2>DESCRIPCIÓN DEL PROYECTO</h2>
 <h3>Texto de prueba</h3>
